@@ -1,5 +1,7 @@
 # Diamonds Data Exploration
 
+## This is a clone of a project originally provided through the Udacity Data Analysis coursework
+
 ## Dataset
 
 The data consists of information regarding 54,000 round-cut diamonds, including
